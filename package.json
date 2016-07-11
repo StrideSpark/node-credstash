@@ -1,5 +1,5 @@
 {
-  "name": "credstash",
+  "name": "@stridespark/credstash",
   "version": "1.0.1",
   "description": "Module for reading credstash secrets",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roylines/node-credstash.git"
+    "url": "git+https://github.com/StrideSpark/node-credstash.git"
   },
   "keywords": [
     "credstash",
@@ -18,9 +18,9 @@
   "author": "Roy Lines",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/roylines/node-credstash/issues"
+    "url": "https://github.com/StrideSpark/node-credstash/issues"
   },
-  "homepage": "https://github.com/roylines/node-credstash#readme",
+  "homepage": "https://github.com/StrideSpark/node-credstash#readme",
   "devDependencies": {
     "aws-sdk-mock": "1.0.5",
     "chai": "3.5.0",
